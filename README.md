@@ -1,4 +1,4 @@
-## `Tanzy Die Game Project`
+# `Tanzy Die Game Project`
 Welcome to the Tanzy Die Game project! This is a simple and fun dice rolling game that you can enjoy playing alone or with friends. Roll the dice and see where luck takes you!
 
 # `Introduction`
