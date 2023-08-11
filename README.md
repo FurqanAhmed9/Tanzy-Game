@@ -1,11 +1,11 @@
-# `Tanzy Die Game Project`
-Welcome to the Tanzy Die Game project! This is a simple and fun dice rolling game that you can enjoy playing alone or with friends. Roll the dice and see where luck takes you!
+# `Tanzy Dice Game Project`
+Welcome to the Tanzy Dice Game project! This is a simple and fun dice rolling game that you can enjoy playing alone or with friends. Roll the dice and see where luck takes you!
 
 # `Introduction`
-Tanzy Die Game is a web-based application that simulates the experience of rolling dice. It's a casual game that can be played whenever you want to have a quick, entertaining moment. The game is built using HTML, CSS, and JavaScript, making it easily accessible through a web browser.
+Tanzy Dice Game is a web-based application that simulates the experience of rolling dice. It's a casual game that can be played whenever you want to have a quick, entertaining moment. The game is built using HTML, CSS, and JavaScript, making it easily accessible through a web browser.
 
 # `Features`
-Roll a virtual die with a click of a button.
+Roll a virtual dice with a click of a button.
 Enjoy realistic animations and sounds to simulate the physical dice rolling experience.
 Track your roll history and see the results of your previous rolls.
 Responsive design that works on desktop and mobile devices.
@@ -17,9 +17,9 @@ A modern web browser (e.g., Google Chrome, Mozilla Firefox)
 # `Installation`
 Clone this repository to your local machine or download the ZIP file and extract it.
 
-`git clone https://github.com/your-username/tanzy-die-game.git`
+`git clone https://github.com/your-username/tanzy-dice-game.git`
 
-`cd tanzy-die-game`
+`cd tanzy-dice-game`
 `npm install`
 `npm start`
 
