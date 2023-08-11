@@ -1,4 +1,4 @@
-# `Tanzy Die Game Project`
+## `Tanzy Die Game Project`
 Welcome to the Tanzy Die Game project! This is a simple and fun dice rolling game that you can enjoy playing alone or with friends. Roll the dice and see where luck takes you!
 
 # `Introduction`
@@ -48,6 +48,3 @@ We welcome contributions from the community to enhance the Tanzy Die Game. If yo
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code.
 
 Thank you for checking out the Tanzy Die Game project! Have fun rolling the dice and may luck be on your side. If you have any questions or feedback, feel free to contact us at `furqanahmedshaikh5@gmail.com`.
-
-
-
